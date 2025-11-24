@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goeil
-- 👀 I’m interested in php, laravel
-- 🌱 I’m currently learning twill, vuejs, tailwindcss
+- 👀 I’m interested in all kinds of languages.
+- 🌱 I love TUI tools
 
 <!---
 goeil/goeil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
